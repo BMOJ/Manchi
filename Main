@@ -1,3 +1,4 @@
 WHITE = (0,0,0)
 screen =(600,600)
 screen.fill
+screen.display
